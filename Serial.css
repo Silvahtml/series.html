@@ -1,0 +1,28 @@
+#Series{
+    text-align: center;
+    width: 700px; height: 700px;
+    margin: auto;
+}
+#Series1{
+    text-align: center;
+}
+#ImagenLogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#Index{
+    text-align: center;
+}
+#FichaTecnica{
+    text-align: center;
+}
+#FichaTecnicaTxt{
+    text-align: center;
+}
+#Galeria{
+    text-align: center;
+}
+#Contacto{
+    text-align: center
+}
